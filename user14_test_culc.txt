@@ -1,0 +1,8 @@
+E:\PHP\OSPanel\domains\GFL\php_task1\php_task12>phpunit CalculTest.php
+PHPUnit 6.5.14 by Sebastian Bergmann and contributors.
+
+............                                                      12 / 12 (100%)
+
+Time: 156 ms, Memory: 10.00MB
+
+OK (12 tests, 12 assertions)
